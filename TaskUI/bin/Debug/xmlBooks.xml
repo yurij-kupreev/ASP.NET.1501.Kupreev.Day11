@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<books>
+  <book>
+    <title>Hero of Our Time</title>
+    <author>Lermontov</author>
+    <year>1840</year>
+    <publisher>St.Petersburg</publisher>
+  </book>
+  <book>
+    <title>Daemon</title>
+    <author>Lermontov</author>
+    <year>1842</year>
+    <publisher>Moscow</publisher>
+  </book>
+  <book>
+    <title>War and Peace</title>
+    <author>Tolstoy</author>
+    <year>1865</year>
+    <publisher>St.Petersburg</publisher>
+  </book>
+</books>

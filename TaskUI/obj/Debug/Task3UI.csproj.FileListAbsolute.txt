@@ -1,0 +1,10 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\Task3UI.exe.config
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\Task3UI.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\Task3UI.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\NLog.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\Task3_BookService.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\Task3_BookService.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\bin\Debug\NLog.xml
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\obj\Debug\Task3UI.csprojResolveAssemblyReference.cache
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\obj\Debug\Task3UI.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3UI\obj\Debug\Task3UI.pdb

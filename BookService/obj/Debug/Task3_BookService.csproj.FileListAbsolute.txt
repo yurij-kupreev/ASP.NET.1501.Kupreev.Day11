@@ -1,0 +1,7 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\bin\Debug\Task3_BookService.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\bin\Debug\Task3_BookService.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\obj\Debug\Task3_BookService.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\obj\Debug\Task3_BookService.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\obj\Debug\Task3_BookService.csprojResolveAssemblyReference.cache
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\bin\Debug\NLog.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day7\Task3_BookService\bin\Debug\NLog.xml
